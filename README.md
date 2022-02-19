@@ -28,7 +28,7 @@
 
 ## # Main repository for downloading tools[MacOS]
 
-- TUN mode on and Windows. [Doc](https://itunes.apple.com/us/app/outline-app/id1356178125)
+- TUN mode on and MacOS. [Doc](https://itunes.apple.com/us/app/outline-app/id1356178125)
 
 ## # Main repository for downloading tools[Linux]
 
@@ -41,7 +41,7 @@
 
 ## # Main repository for downloading tools[IOS]
 
-- TUN mode on Android. [Doc](https://itunes.apple.com/us/app/outline-app/id1356177741)
+- TUN mode on IOS. [Doc](https://itunes.apple.com/us/app/outline-app/id1356177741)
 
 ## # See how it works
 
