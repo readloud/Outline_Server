@@ -5,7 +5,15 @@
 
 ## Features
 
-- Local HTTP/HTTPS/SOCKS server with authentication support
+- Shadowsocks is a free and open-source encryption protocol project, widely used in China to circumvent Internet censorship.
+- It was created in 2012 by a Chinese programmer named "clowwindy", and multiple implementations of the protocol have been made available since. Wikipedia
+- windows: 4.4.0.0 / 31 December 2020; 13 months ago
+- libev: 3.3.5 / 15 September 2020; 17 months ago
+- rust: 1.12.5 / 17 December 2021; 1 month ago
+- Developer: Free and open-source software
+- go: 0.1.5 / 2 May 2021; 9 months ago
+- python: 2.9.1 / 2 January 2017; 5 years ago
+- Programming languages: Go, C, Rust, Kotlin, Swift, C#, Objective-C
 - VMess, Shadowsocks, Trojan, Snell protocol support for remote connections
 - Built-in DNS server that aims to minimize DNS pollution attack impact, supports DoH/DoT upstream and fake IP.
 - Rules based off domains, GEOIP, IPCIDR or Process to forward packets to different nodes
@@ -16,18 +24,24 @@
 
 ## # Main repository for downloading tools[windows 11,10,8,7]
 
-- TUN mode on and Windows. [Doc](https://github.com/Fndroid/clash_for_windows_pkg/releases)
+- TUN mode on and Windows. [Doc](https://raw.githubusercontent.com/Jigsaw-Code/outline-releases/master/client/stable/Outline-Client.exe)
 
+## # Main repository for downloading tools[MacOS]
+
+- TUN mode on and Windows. [Doc](https://itunes.apple.com/us/app/outline-app/id1356178125)
 
 ## # Main repository for downloading tools[Linux]
 
-- TUN mode on macOS, Linux. [Doc](https://github.com/Fndroid/clash_for_windows_pkg/releases)
+- TUN mode on macOS, Linux. [Doc](https://raw.githubusercontent.com/Jigsaw-Code/outline-releases/master/client/stable/Outline-Client.AppImage)
 
 
 ## # Main repository for downloading tools[Android]
 
-- TUN mode on Android. [Doc](https://github.com/Kr328/ClashForAndroid/releases)
+- TUN mode on Android. [Doc](https://play.google.com/store/apps/details?id=org.outline.android.client)
 
+## # Main repository for downloading tools[IOS]
+
+- TUN mode on Android. [Doc](https://itunes.apple.com/us/app/outline-app/id1356177741)
 
 ## # See how it works
 
