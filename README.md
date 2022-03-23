@@ -1,7 +1,6 @@
-<h1 align="center">
-  <img src="https://github.com/attakercyebr/Clash-VPN/blob/main/1%20(2)%20(1).png">
+![alt img](https://github.com/attakercyebr/Clash-VPN/blob/main/1%20(2)%20(1).png)
+
   <br>👊 M4nifest0 Black Hat Hacking Team™💪 <br>
-</h1>
 
 ## Features
 
