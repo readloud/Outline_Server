@@ -4,11 +4,12 @@
 <h2> 👊 M4nifest0 Black Hat Hacking Team™💪 </h2> 
 ----------------------
 
-</p><br>
+</p>
 
 ![](b8976d9a.png)
 
 <br>
+
 ## Features
 
 - Shadowsocks is a free and open-source encryption protocol project, widely used in China to circumvent Internet censorship.
