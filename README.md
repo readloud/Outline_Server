@@ -1,6 +1,4 @@
 <p align="center">
-
-----------------------
 <h2> 👊 M4nifest0 Black Hat Hacking Team™💪 </h2> 
 
 [![](b8976d9a.png)](b8976d9b.png)
