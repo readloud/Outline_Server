@@ -1,4 +1,8 @@
-# 👊 M4nifest0 Black Hat Hacking Team™💪
+<p align="center">
+----------------------
+<h2> 👊 M4nifest0 Black Hat Hacking Team™💪 </h2> 
+----------------------
+</p>
 
 ![](b8976d9a.png)
 
@@ -32,14 +36,6 @@
 ## # Main repository for downloading tools[Linux]
 
 - TUN mode on macOS, Linux. [Doc](https://raw.githubusercontent.com/Jigsaw-Code/outline-releases/master/client/stable/Outline-Client.AppImage)
-
-*Using the Terminal*
-
-Make the AppImage executable: `chmod +x my.AppImage`
-
-Run the AppImage: `./my.AppImage`
-
-That’s it! The AppImage should now be executed.
 
 ## # Main repository for downloading tools[Android]
 
@@ -144,11 +140,6 @@ Details: https://www.recordedfuture.com/reaper-drone-documents-leaked
 Download link: https://www.sendspace.com/file/m182nc
 Details: https://www.recordedfuture.com/reaper-drone-documents-leaked
 
-<p align="center">
-----------------------
-<h2> 👊 M4nifest0 Black Hat Hacking Team™💪 </h2> 
-----------------------
-</p>
 - 📌 Visit the following channels and sites for more training and tools or to download:
 
 - 🔞 https://m4nifest0.com
@@ -160,11 +151,18 @@ Details: https://www.recordedfuture.com/reaper-drone-documents-leaked
 
 ## # See how it works
 
+*Using the Terminal*
+
+Make the AppImage executable: `chmod +x my.AppImage`
+
+Run the AppImage: `./my.AppImage`
+
+That’s it! The AppImage should now be executed.
+
 - 🤡 Usage_Training. [Click](https://t.me/M4nifest0/707) 
 - 🔞 Darknet. [Click](https://m4nifest0.com)
 - 🔞 DarkWeb. [Click](http://afe36vr4gqncdsekksl5ka3xahemj4cpnguj5t7wwp5vxvhff3h5g2qd.onion)
 - 🔞 Telegram_Channel. [Click](https://t.me/M4nifest0)
-
 
 <h2>📌 Our team specializes in the following programming languages:...</h2> 
 <p align="center">
