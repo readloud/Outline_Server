@@ -52,22 +52,29 @@ On this section of the site you can find intel (most of which has been paid for 
 
 Details: This set of files was obtained from the European defence contractor known as Rheinmetall defence. There are a total of 1400 files all of which were obtained very recently. These include, military contracts, emails, business dealings of the company, details and drawings of some of their products along with a multitude of other kinds of information are present in this set of files.
 
--📌 Weapon Data Link User Manual [Download link](http://k6nfsszobpyoniyk.onion/?RhZS8xOOhEkQxOvb9sKGtfG9yBJ) Details: Leaked by an insider from the Tactical Communications Group. It consists of 51 pages in total and has pretty interesting info on a certain weapon data system.
+-📌 Weapon Data Link User Manual [Download link](http://k6nfsszobpyoniyk.onion/?RhZS8xOOhEkQxOvb9sKGtfG9yBJ) 
+Details: Leaked by an insider from the Tactical Communications Group. It consists of 51 pages in total and has pretty interesting info on a certain weapon data system.
 
 -📌 2019 leaks:
-US Intelligence contractors DB [Download link](https://anonfile.com/ZbD1M3Xcm1/USIntelligenceKelvinSecTeam_zip) Details: According to the hackers who obtained this db, it was taken from a cloud server owned by the US government.
+US Intelligence contractors DB [Download link](https://anonfile.com/ZbD1M3Xcm1/USIntelligenceKelvinSecTeam_zip) 
+Details: According to the hackers who obtained this db, it was taken from a cloud server owned by the US government.
 
-Minor Government Databases Bangladesh government database leak [Download link](https://114.130.54.243/trainee_infos.sql) Details: Hacked from http://seip-fd.gov.bd/
+Minor Government Databases Bangladesh government database leak [Download link](https://114.130.54.243/trainee_infos.sql) 
+Details: Hacked from http://seip-fd.gov.bd/
 
 -📌 Chile Government DB [Download link](https://anonfile.com/R4U2J7X8m1/chile_gov_sql)
 
--📌 Peru Government Db [SQL](http://198.96.91.44/04_data_ouath2.sql) Details: Hacked from http://evaluaciondocente.perueduca.pe/
+-📌 Peru Government Db [SQL](http://198.96.91.44/04_data_ouath2.sql) 
+Details: Hacked from http://evaluaciondocente.perueduca.pe/
 
--📌 Canada Government Speakers [DB Backup](https://96.125.169.17/speakerscanada.com.zip) [Details](http://speakerscanada.com/)
+-📌 Canada Government Speakers [DB Backup](https://96.125.169.17/speakerscanada.com.zip) 
+Details: Hacked from http://speakerscanada.com/
 
--📌 utepda.gob.do DB [Backup](https://anonfile.com/Oax462v9nf/DB_zip) Details: Hacked from utepda.gob.do
+-📌 utepda.gob.do DB [Backup](https://anonfile.com/Oax462v9nf/DB_zip) 
+Details: Hacked from http://utepda.gob.do/
 
--📌 fda.hhs.gov DB [Backup](https://anonfile.com/Ycr9xdvcnd/fda.hhs.gov_zip) Details: Hacked from [fda.hhs.gov](https://www.dded.gov.in/) 
+-📌 fda.hhs.gov DB [Backup](https://anonfile.com/Ycr9xdvcnd/fda.hhs.gov_zip) 
+Details: Hacked from [fda.hhs.gov](https://www.dded.gov.in/) 
 
  - DB: [Login](http://43.255.141.55/0422MR/oims/?login&next=Dashboard) [SQL](http://43.255.141.55/aioims%20(5).sql) 
  - Details: Hacked from https://www.dded.gov.in/
@@ -81,13 +88,15 @@ Download links:
 	- [FuerzaAerea](ksecureteam.com/order/v3/FuerzaAerea.zip) 
 	- [govermentvenezuelan](ksecureteam.com/order/v3/govermentvenezuelan.zip) Details: Includes army db and loads of classified info.
 
-Venezuelan Election database [Download link](ksecureteam.com/order/VenezuelElectionDatabase.zip) Details: Hacked election db(over 1 gb).
+Venezuelan Election database [Download link](ksecureteam.com/order/VenezuelElectionDatabase.zip) 
+Details: Hacked election db(over 1 gb).
 
 -📌 Infocentro Goverment Venezuelan DataBase [Download link](https://www.sendspace.com/file/0mhp34)
 
 -📌 BACKUPs Banks Of [Venezuela ](http://181.225.58.110/)
 
--📌 Intimate details of some Chinese Communist party members(updated link V2) [Download link](https://anonfiles.com/PbZfq0O9u2/201812chinese_zip) Details: Includes intimate details of some Chinese communist party members in two specific regions
+-📌 Intimate details of some Chinese Communist party members(updated link V2) [Download link](https://anonfiles.com/PbZfq0O9u2/201812chinese_zip) 
+Details: Includes intimate details of some Chinese communist party members in two specific regions
 
 -📌 Colombian government leaks
 
@@ -97,7 +106,8 @@ Colombian government databases with admin access for some of the hacked sites: [
 
 -📌 [FuncionPublica](https://www.funcionpublica.gov.co) [SQL](http://201.217.213.96/DB/evadb.sql)
 
--📌 Transito Control System Colombia ["Antioquia"](http://201.184.144.186:8080/) [TILEDCOVIPACIFICO](http://201.184.144.186:8080/TILEDCOVIPACIFICO/fotos/) Details: A few very interesting Colombian government leaks
+-📌 Transito Control System Colombia ["Antioquia"](http://201.184.144.186:8080/) [TILEDCOVIPACIFICO](http://201.184.144.186:8080/TILEDCOVIPACIFICO/fotos/) 
+Details: A few very interesting Colombian government leaks
 
 -📌 M1 Abrams tank [manuals ](http://www.mediafire.com/file/m61wllvv6b2tlgl/tank.zip/file) [Details](https://www.recordedfuture.com/reaper-drone-documents-leaked)
 
