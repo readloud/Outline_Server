@@ -100,10 +100,10 @@ Colombian government databases with admin access for some of the hacked sites: [
 -📌 MQ-9 reaper drone documents [Download link: ](https://www.sendspace.com/file/m182nc) [Details: ](https://www.recordedfuture.com/reaper-drone-documents-leaked)
 
 - 📌 Visit the following channels and sites for more training and tools or to download:
-- 🔞 https://m4nifest0.com
-- 🔞 https://m4nifest0.group
-- 🔞 https://m4nifest0.shop
-- 🔞 https://t.me/M4nifest0
+	- 🔞 https://m4nifest0.com
+	- 🔞 https://m4nifest0.group
+	- 🔞 https://m4nifest0.shop
+	- 🔞 https://t.me/M4nifest0
 
 ## See how it works
 
