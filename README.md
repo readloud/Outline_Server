@@ -123,7 +123,7 @@ That’s it! The AppImage should now be executed.
 - 🔞 DarkWeb. [Click](http://afe36vr4gqncdsekksl5ka3xahemj4cpnguj5t7wwp5vxvhff3h5g2qd.onion)
 - 🔞 Telegram_Channel. [Click](https://t.me/M4nifest0)
 
-<h2>📌 Our team specializes in the following programming languages: </h2> 
+## 📌 Our team specializes in the following programming languages:...
 
 <p align="center">
 	<a href="https://t.me/M4nifest0"><img src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=Telegram&logoColor=white" /></a>
