@@ -99,16 +99,16 @@ Colombian government databases with admin access for some of the hacked sites: [
 
 -📌 MQ-9 reaper drone documents [Download link: ](https://www.sendspace.com/file/m182nc) [Details: ](https://www.recordedfuture.com/reaper-drone-documents-leaked)
 
+----------------------
 - 📌 Visit the following channels and sites for more training and tools or to download:
 - 🔞 https://m4nifest0.com
 - 🔞 https://m4nifest0.group
 - 🔞 https://m4nifest0.shop
 - 🔞 https://t.me/M4nifest0
-
 ----------------------
 
 ## See how it works
-
+----------------------
 Download [Outline-Client.AppImage](https://github.com/Jigsaw-Code/outline-releases/master/client/stable/)
 
 ~~~
@@ -119,14 +119,16 @@ Make the AppImage executable: `chmod +x Outline-Client.AppImage`
 Run the AppImage: `./Outline-Client.AppImage`
 
 That’s it! The AppImage should now be executed.
+----------------------
 
 - 🤡 Usage_Training. [Click](https://t.me/M4nifest0/707) 
 - 🔞 Darknet. [Click](https://m4nifest0.com)
 - 🔞 DarkWeb. [Click](http://afe36vr4gqncdsekksl5ka3xahemj4cpnguj5t7wwp5vxvhff3h5g2qd.onion)
 - 🔞 Telegram_Channel. [Click](https://t.me/M4nifest0)
 
-
+----------------------
 <h2>📌 Our team specializes in the following programming languages: </h2> 
+----------------------
 
 <p align="center">
 	<a href="https://t.me/M4nifest0"><img src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=Telegram&logoColor=white" /></a>
