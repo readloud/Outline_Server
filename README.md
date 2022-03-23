@@ -1,11 +1,14 @@
 <p align="center">
+	
 ----------------------
 <h2> 👊 M4nifest0 Black Hat Hacking Team™💪 </h2> 
 ----------------------
-</p>
+
+</p><br>
 
 ![](b8976d9a.png)
 
+<br>
 ## Features
 
 - Shadowsocks is a free and open-source encryption protocol project, widely used in China to circumvent Internet censorship.
@@ -48,31 +51,45 @@
 
 # Description
 *************
+
 -📌 Confidential/sensitive intel(Updated as of 5/1/2021)
+
 On this section of the site you can find intel(most of which has been paid for by me) which has been leaked to the public for free. In addition to that new leaks will be added at the top of the page.
 
 -📌 Rheinmetall Defence leaks(Updated link V3)
+
 Download link: https://anonfiles.com/B0wfGbK2o9/files_zip
+
 Details: This set of files was obtained from the European defence contractor known as Rheinmetall defence. There are a total of 1400 files all of which were obtained very recently. These include, military contracts, emails, business dealings of the company, details and drawings of some of their products along with a multitude of other kinds of information are present in this set of files.
 
 -📌 Weapon Data Link User Manual
+
 Download link: http://k6nfsszobpyoniyk.onion/?RhZS8xOOhEkQxOvb9sKGtfG9yBJ
+
 Details: Leaked by an insider from the Tactical Communications Group. It consists of 51 pages in total and has pretty interesting info on a certain weapon data system.
 
 -📌 2019 leaks:
+
 US Intelligence contractors DB
+
 Download link: https://anonfile.com/ZbD1M3Xcm1/USIntelligenceKelvinSecTeam_zip
+
 Details: According to the hackers who obtained this db, it was taken from a cloud server owned by the US government.
 
 Minor Government Databases
+
 Bangladesh government database leak
+
 Download link:https://114.130.54.243/trainee_infos.sql
+
 Details: Hacked from http://seip-fd.gov.bd/
 
 -📌 Chile Government DB
+
 Download link: https://anonfile.com/R4U2J7X8m1/chile_gov_sql
 
 -📌 Peru Government Db
+
 SQL: http://198.96.91.44/04_data_ouath2.sql
 
 Details: Hacked from http://evaluaciondocente.perueduca.pe/
