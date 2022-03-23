@@ -1,11 +1,11 @@
 <h1>
 <p align="center">	
-</a>
 	
-👊 M4nifest0 Black Hat Hacking Team™💪 </h1> 
+👊 M4nifest0 Black Hat Hacking Team™💪 
 
 [![](b8976d9a.png)](https://github.com/readloud/Outline_Server/blob/main/b8976d9b.png?raw=true)
 
+</h1> 
 </p>
 <br>
 
