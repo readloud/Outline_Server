@@ -21,28 +21,28 @@
 - Netfilter TCP redirecting. Deploy Clash on your Internet gateway with `iptables`.
 - Comprehensive HTTP RESTful API controller
 
-## # Main repository for downloading tools[windows 11,10,8,7]
+## Main repository for downloading tools[windows 11,10,8,7]
 
 - TUN mode on and Windows. [Doc](https://raw.githubusercontent.com/Jigsaw-Code/outline-releases/master/client/stable/Outline-Client.exe)
 
-## # Main repository for downloading tools[MacOS]
+## Main repository for downloading tools[MacOS]
 
 - TUN mode on and MacOS. [Doc](https://itunes.apple.com/us/app/outline-app/id1356178125)
 
-## # Main repository for downloading tools[Linux]
+## Main repository for downloading tools[Linux]
 
 - TUN mode on macOS, Linux. [Doc](https://raw.githubusercontent.com/Jigsaw-Code/outline-releases/master/client/stable/Outline-Client.AppImage)
 
-## # Main repository for downloading tools[Android]
+## Main repository for downloading tools[Android]
 
 - TUN mode on Android. [Doc](https://play.google.com/store/apps/details?id=org.outline.android.client)
 
-## # Main repository for downloading tools[IOS]
+## Main repository for downloading tools[IOS]
 
 - TUN mode on IOS. [Doc](https://itunes.apple.com/us/app/outline-app/id1356177741)
 
 
-# Description
+## Description
 *************
 
 -📌 Confidential/sensitive intel(Updated as of 5/1/2021)
@@ -107,7 +107,7 @@ Colombian government databases with admin access for some of the hacked sites: [
 
 ----------------------
 
-## # See how it works
+## See how it works
 
 Download [Outline-Client.AppImage](https://github.com/Jigsaw-Code/outline-releases/master/client/stable/)
 
