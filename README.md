@@ -4,11 +4,8 @@
 
 [![](b8976d9a.png)](https://github.com/readloud/Outline_Server/blob/main/b8976d9b.png?raw=true)
 
-<br>
-
-----------------------
-
 </p>
+<br>
 
 ## Features
 
