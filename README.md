@@ -69,7 +69,8 @@ Minor Government Databases Bangladesh government database leak [Download link](h
 
 -📌 fda.hhs.gov DB [Backup](https://anonfile.com/Ycr9xdvcnd/fda.hhs.gov_zip) Details: Hacked from [fda.hhs.gov](https://www.dded.gov.in/) 
 
-DB [Login: ](http://43.255.141.55/0422MR/oims/?login&next=Dashboard) [SQL: ](http://43.255.141.55/aioims%20(5).sql) Details: Hacked from https://www.dded.gov.in/
+ - DB: [Login](http://43.255.141.55/0422MR/oims/?login&next=Dashboard) [SQL](http://43.255.141.55/aioims%20(5).sql) 
+ - Details: Hacked from https://www.dded.gov.in/
 
 -📌 Venezuela Papers 
 Venezuelan Confidential documents(2017-18) [Download link](http://www.mediafire.com/file/x2199gt1jnxcyec/Venzueleun_gov_documents.zip/file) Details: 100+ Files "borrowed" from a important Venezuelan government site(from its intranet).
@@ -94,7 +95,7 @@ Colombian government databases with admin access for some of the hacked sites: [
 
 -📌 Colombia Police DNIs: [Docs](http://181.58.255.52/Scaner/)
 
--📌 [funcionpublica](https://www.funcionpublica.gov.co) [SQL](http://201.217.213.96/DB/evadb.sql)
+-📌 [FuncionPublica](https://www.funcionpublica.gov.co) [SQL](http://201.217.213.96/DB/evadb.sql)
 
 -📌 Transito Control System Colombia ["Antioquia"](http://201.184.144.186:8080/) [TILEDCOVIPACIFICO](http://201.184.144.186:8080/TILEDCOVIPACIFICO/fotos/) Details: A few very interesting Colombian government leaks
 
