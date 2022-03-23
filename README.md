@@ -60,7 +60,6 @@ That’s it! The AppImage should now be executed.
 - 🔞 Telegram_Channel. [Click](https://t.me/M4nifest0)
 
 
-<h2>
 <p align="center">	
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://t.me/M4nifest0">
@@ -75,7 +74,6 @@ That’s it! The AppImage should now be executed.
 	<a href="http://afe36vr4gqncdsekksl5ka3xahemj4cpnguj5t7wwp5vxvhff3h5g2qd.onion/">
 		<img src="https://img.shields.io/badge/WebSite-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
 	<a href="https://t.me/M4nifest0">
 		<img src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=Telegram&logoColor=white" />
 	</a>&nbsp;&nbsp;&nbsp;&nbsp;
