@@ -74,70 +74,105 @@ Download link: https://anonfile.com/R4U2J7X8m1/chile_gov_sql
 
 -📌 Peru Government Db
 SQL: http://198.96.91.44/04_data_ouath2.sql
+
 Details: Hacked from http://evaluaciondocente.perueduca.pe/
 
 -📌 Canada Government Speakers DB
+
 Backup: https://96.125.169.17/speakerscanada.com.zip
+
 Details: From http://speakerscanada.com/
 
 -📌 utepda.gob.do DB
+
 Backup: https://anonfile.com/Oax462v9nf/DB_zip
+
 Details: Hacked from utepda.gob.do
 
 -📌 fda.hhs.gov DB
+
 Backup: https://anonfile.com/Ycr9xdvcnd/fda.hhs.gov_zip
+
 Details: Hacked from fda.hhs.gov
 
 https://www.dded.gov.in/ DB
+
 Login: http://43.255.141.55/0422MR/oims/?login&next=Dashboard
+
 SQL: http://43.255.141.55/aioims%20(5).sql
+
 Details: Hacked from https://www.dded.gov.in/
 
 -📌 Venezuela Papers
+
 Venezuelan Confidential documents(2017-18)
+
 Download link: http://www.mediafire.com/file/x2199gt1jnxcyec/Venzueleun_gov_documents.zip/file
+
 Details: 100+ Files "borrowed" from a important Venezuelan government site(from its intranet).
 
 -📌 Venezuelan latest classified documents
+
 Download links: ksecureteam.com/order/v3/FuerteTiunaArmyBase.zip
+
 ksecureteam.com/order/v3/FuerzaAerea.zip
+
 ksecureteam.com/order/v3/govermentvenezuelan.zip
+
 Details: Includes army db and loads of classified info.
+
 Venezuelan Election database
+
 Download link: ksecureteam.com/order/VenezuelElectionDatabase.zip
+
 Details: Hacked election db(over 1 gb).
 
 -📌 Infocentro Goverment Venezuelan DataBase
+
 Download link:https://www.sendspace.com/file/0mhp34
 
 -📌 BACKUPs Banks Of Venezuela
+
 http://181.225.58.110/
 
 -📌 Intimate details of some Chinese Communist party members(updated link V2)
+
 Download link: https://anonfiles.com/PbZfq0O9u2/201812chinese_zip
+
 Details: Includes intimate details of some Chinese communist party members in two specific regions
 
 -📌 Colombian government leaks
+
 Colombian government databases with admin access for some of the hacked sites:
+
 Download link: http://www.mediafire.com/file/6umd2bkts8p4re2/Colombia_Priv8_Goverment_Explotation.zip/file
 
 -📌 Colombia Police DNIs:
+
 Docs: http://181.58.255.52/Scaner/
 
 -📌 https://www.funcionpublica.gov.co
+
 SQL: http://201.217.213.96/DB/evadb.sql
 
 -📌 Transito Control System Colombia "Antioquia":
+
 http://201.184.144.186:8080/
+
 http://201.184.144.186:8080/TILEDCOVIPACIFICO/fotos/
+
 Details: A few very interesting Colombian government leaks
 
 -📌 M1 Abrams tank manuals
+
 http://www.mediafire.com/file/m61wllvv6b2tlgl/tank.zip/file
+
 Details: https://www.recordedfuture.com/reaper-drone-documents-leaked
 
 -📌 MQ-9 reaper drone documents
+
 Download link: https://www.sendspace.com/file/m182nc
+
 Details: https://www.recordedfuture.com/reaper-drone-documents-leaked
 
 - 📌 Visit the following channels and sites for more training and tools or to download:
@@ -164,8 +199,8 @@ That’s it! The AppImage should now be executed.
 - 🔞 DarkWeb. [Click](http://afe36vr4gqncdsekksl5ka3xahemj4cpnguj5t7wwp5vxvhff3h5g2qd.onion)
 - 🔞 Telegram_Channel. [Click](https://t.me/M4nifest0)
 
-<h2>📌 Our team specializes in the following programming languages:...</h2> 
 <p align="center">
+	<h2>📌 Our team specializes in the following programming languages: </h2> 
 	<a href="https://t.me/M4nifest0">
 	<img src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=Telegram&logoColor=white" /></a>
 	<a href="https://twitter.com/_M4nifest0_">
