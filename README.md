@@ -114,6 +114,7 @@ Details: A few very interesting Colombian government leaks
 -📌 MQ-9 reaper drone documents [Download link: ](https://www.sendspace.com/file/m182nc) [Details](https://www.recordedfuture.com/reaper-drone-documents-leaked)
 
 -📌 Visit the following channels and sites for more training and tools or to download:
+
 	- 🔞 https://m4nifest0.com
 	- 🔞 https://m4nifest0.group
 	- 🔞 https://m4nifest0.shop
